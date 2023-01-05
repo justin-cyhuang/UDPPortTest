@@ -1,4 +1,4 @@
-# PortTest
+# UDP PortTest
 A simple tool to test UDP endpoint connectivities.
 
 In Windows it is quite easy to test TCP connectivities, there are also tons of tools can meet IT's need to do so. But for UDP protocol there is no built-in tool to do the test.
